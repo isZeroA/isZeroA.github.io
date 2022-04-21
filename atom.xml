@@ -6,7 +6,7 @@
   <link href="http://iszero.top/atom.xml" rel="self"/>
   
   <link href="http://iszero.top/"/>
-  <updated>2022-04-20T11:26:28.625Z</updated>
+  <updated>2022-04-21T14:26:37.179Z</updated>
   <id>http://iszero.top/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://iszero.top/2022/04/21/test/"/>
+    <id>http://iszero.top/2022/04/21/test/</id>
+    <published>2022-04-21T14:22:58.000Z</published>
+    <updated>2022-04-21T14:26:37.179Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span</summary>
+        
+      
+    
+    
+    
+    
+    <category term="learn,new" scheme="http://iszero.top/tags/learn-new/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
