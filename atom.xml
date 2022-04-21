@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>isZeroA</title>
+  <icon>https://www.gravatar.com/avatar/a0e1601087e9fc6cd8e613c8c1603e9b</icon>
+  <subtitle>Zero</subtitle>
+  <link href="http://iszero.top/atom.xml" rel="self"/>
+  
+  <link href="http://iszero.top/"/>
+  <updated>2022-04-21T07:32:39.251Z</updated>
+  <id>http://iszero.top/</id>
+  
+  <author>
+    <name>Zero</name>
+    <email>947995504@qq.com</email>
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这是一个测试</title>
+    <link href="http://iszero.top/2022/04/21/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95/"/>
+    <id>http://iszero.top/2022/04/21/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95/</id>
+    <published>2022-04-21T07:31:51.000Z</published>
+    <updated>2022-04-21T07:32:39.251Z</updated>
+    
+    
+    
+    
+    
+    <category term="learn,new" scheme="http://iszero.top/tags/learn-new/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://iszero.top/2022/04/20/hello-world/"/>
+    <id>http://iszero.top/2022/04/20/hello-world/</id>
+    <published>2022-04-20T11:26:28.625Z</published>
+    <updated>2022-04-20T11:26:28.625Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
