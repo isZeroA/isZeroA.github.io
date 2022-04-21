@@ -6,7 +6,7 @@
   <link href="http://iszero.top/atom.xml" rel="self"/>
   
   <link href="http://iszero.top/"/>
-  <updated>2022-04-21T07:32:39.251Z</updated>
+  <updated>2022-04-20T11:26:28.625Z</updated>
   <id>http://iszero.top/</id>
   
   <author>
@@ -15,21 +15,6 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>这是一个测试</title>
-    <link href="http://iszero.top/2022/04/21/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95/"/>
-    <id>http://iszero.top/2022/04/21/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E6%B5%8B%E8%AF%95/</id>
-    <published>2022-04-21T07:31:51.000Z</published>
-    <updated>2022-04-21T07:32:39.251Z</updated>
-    
-    
-    
-    
-    
-    <category term="learn,new" scheme="http://iszero.top/tags/learn-new/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
